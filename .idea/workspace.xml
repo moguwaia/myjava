@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9313a2c7-1a29-47af-b7e2-4e45920c7727" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\work\maven\repository\repository3" />
+        <option name="mavenHome" value="D:/work/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\work\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="keepSourceFolders" value="false" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1q3aZqlyFNlfkVjE4UWa6V4shVn" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/merchants/src/test" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3229071" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\study\卡包应用\merchants\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MerchantsApplication">
+    <configuration name="MerchantsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.imooc.passbook.merchants.MerchantsApplication" />
+      <module name="merchants" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.passbook.merchants.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantsServTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="merchants" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.passbook.merchants.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.passbook.merchants.service" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.passbook.merchants.service.MerchantsServTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantsServTest.testBuildMerchantsInfoById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="merchants" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.passbook.merchants.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.passbook.merchants.service" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.passbook.merchants.service.MerchantsServTest" />
+      <option name="METHOD_NAME" value="testBuildMerchantsInfoById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantsServTest.testCreateMerchantsServ" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="merchants" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.passbook.merchants.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.passbook.merchants.service" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.passbook.merchants.service.MerchantsServTest" />
+      <option name="METHOD_NAME" value="testCreateMerchantsServ" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerchantsServTest.testDropPassTemplate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="merchants" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.passbook.merchants.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.passbook.merchants.service" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.passbook.merchants.service.MerchantsServTest" />
+      <option name="METHOD_NAME" value="testDropPassTemplate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MerchantsApplication" />
+        <item itemvalue="JUnit.MerchantsServTest.testDropPassTemplate" />
+        <item itemvalue="JUnit.MerchantsServTest.testBuildMerchantsInfoById" />
+        <item itemvalue="JUnit.MerchantsServTest.testCreateMerchantsServ" />
+        <item itemvalue="JUnit.MerchantsServTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9313a2c7-1a29-47af-b7e2-4e45920c7727" name="Default Changelist" comment="" />
+      <created>1616310785927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616310785927</updated>
+      <workItem from="1616310787512" duration="1876000" />
+      <workItem from="1616312679000" duration="181000" />
+      <workItem from="1616312863623" duration="1978000" />
+      <workItem from="1616342417749" duration="3859000" />
+      <workItem from="1616915137478" duration="4000" />
+      <workItem from="1616915200645" duration="4006000" />
+      <workItem from="1617519366800" duration="7634000" />
+      <workItem from="1619360766718" duration="38000" />
+      <workItem from="1619360861107" duration="9946000" />
+      <workItem from="1620538831113" duration="2391000" />
+      <workItem from="1621738123597" duration="952000" />
+      <workItem from="1621739141000" duration="10640000" />
+      <workItem from="1621959156677" duration="299000" />
+      <workItem from="1621960226841" duration="753000" />
+      <workItem from="1627179274411" duration="57000" />
+      <workItem from="1627180165275" duration="382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="870" y="293" key="#Assign_Data_Sources" timestamp="1616915452934">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="870" y="293" key="#Assign_Data_Sources/0.0.1366.737@0.0.1366.737" timestamp="1616915452934" />
+    <state x="618" y="93" key="#Inspections" timestamp="1616344505095">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="618" y="93" key="#Inspections/0.0.1366.737@0.0.1366.737" timestamp="1616344505095" />
+    <state x="367" y="137" key="#Log_Highlighting_(ideolog)" timestamp="1617525073841">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="367" y="137" key="#Log_Highlighting_(ideolog)/0.0.1366.737@0.0.1366.737" timestamp="1617525073841" />
+    <state x="120" y="223" key="#SQL_Dialects" timestamp="1617524543925">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="120" y="223" key="#SQL_Dialects/0.0.1366.737@0.0.1366.737" timestamp="1617524543925" />
+    <state x="20" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616343550165">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="20" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.737@0.0.1366.737" timestamp="1616343550165" />
+    <state x="910" y="138" key="#com.intellij.ide.util.MemberChooser" timestamp="1617522987676">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="910" y="138" key="#com.intellij.ide.util.MemberChooser/0.0.1366.737@0.0.1366.737" timestamp="1617522987676" />
+    <state x="364" y="214" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1616918487851">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="364" y="214" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.737@0.0.1366.737" timestamp="1616918487851" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1616310820715">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.737@0.0.1366.737" timestamp="1616310820715" />
+    <state x="225" y="26" key="GrepConsoleSettings" timestamp="1621958485400">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="225" y="26" key="GrepConsoleSettings/0.0.1366.737@0.0.1366.737" timestamp="1621958485400" />
+    <state width="1323" height="215" key="GridCell.Tab.0.bottom" timestamp="1621960381036">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.bottom/0.0.1366.737@0.0.1366.737" timestamp="1621960381036" />
+    <state width="1323" height="215" key="GridCell.Tab.0.center" timestamp="1621960381036">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.center/0.0.1366.737@0.0.1366.737" timestamp="1621960381036" />
+    <state width="1323" height="215" key="GridCell.Tab.0.left" timestamp="1621960381035">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.left/0.0.1366.737@0.0.1366.737" timestamp="1621960381035" />
+    <state width="1323" height="215" key="GridCell.Tab.0.right" timestamp="1621960381036">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.0.right/0.0.1366.737@0.0.1366.737" timestamp="1621960381036" />
+    <state width="1323" height="215" key="GridCell.Tab.1.bottom" timestamp="1621959123138">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.1.bottom/0.0.1366.737@0.0.1366.737" timestamp="1621959123138" />
+    <state width="1323" height="215" key="GridCell.Tab.1.center" timestamp="1621959123138">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.1.center/0.0.1366.737@0.0.1366.737" timestamp="1621959123138" />
+    <state width="1323" height="215" key="GridCell.Tab.1.left" timestamp="1621959123138">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.1.left/0.0.1366.737@0.0.1366.737" timestamp="1621959123138" />
+    <state width="1323" height="215" key="GridCell.Tab.1.right" timestamp="1621959123138">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="215" key="GridCell.Tab.1.right/0.0.1366.737@0.0.1366.737" timestamp="1621959123138" />
+    <state width="1323" height="328" key="GridCell.Tab.2.bottom" timestamp="1616343054635">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="328" key="GridCell.Tab.2.bottom/0.0.1366.737@0.0.1366.737" timestamp="1616343054635" />
+    <state width="1323" height="328" key="GridCell.Tab.2.center" timestamp="1616343054635">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="328" key="GridCell.Tab.2.center/0.0.1366.737@0.0.1366.737" timestamp="1616343054635" />
+    <state width="1323" height="328" key="GridCell.Tab.2.left" timestamp="1616343054634">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="328" key="GridCell.Tab.2.left/0.0.1366.737@0.0.1366.737" timestamp="1616343054634" />
+    <state width="1323" height="328" key="GridCell.Tab.2.right" timestamp="1616343054635">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state width="1323" height="328" key="GridCell.Tab.2.right/0.0.1366.737@0.0.1366.737" timestamp="1616343054635" />
+    <state x="263" y="102" key="IDE.errors.dialog" timestamp="1617527187786">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="263" y="102" key="IDE.errors.dialog/0.0.1366.737@0.0.1366.737" timestamp="1617527187786" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1621739106158">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.737@0.0.1366.737" timestamp="1621739106158" />
+    <state x="1046" y="432" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1616343606613">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="1046" y="432" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1366.737@0.0.1366.737" timestamp="1616343606613" />
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup" timestamp="1619367447866">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.737@0.0.1366.737" timestamp="1619367447866" />
+    <state x="346" y="58" width="672" height="678" key="search.everywhere.popup" timestamp="1621957590157">
+      <screen x="0" y="0" width="1366" height="737" />
+    </state>
+    <state x="346" y="58" width="672" height="678" key="search.everywhere.popup/0.0.1366.737@0.0.1366.737" timestamp="1621957590157" />
+  </component>
+</project>
